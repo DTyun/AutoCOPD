@@ -1,0 +1,10 @@
+whole_lung_LAA950
+bronchus_LD
+whole_lung_LAA910
+LAA950_right_upper_lobe
+LAA910_right_lower_lobe
+LAA950_right_middle_lobe
+LAA950_left_lower_lobe
+LAA950_right_lower_lobe
+LAA910_left_lower_lobe
+LAA950_left_upper_lobe

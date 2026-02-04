@@ -1,0 +1,2 @@
+max_depth,eta,n_estimators,subsample,colsample_bytree,min_child_weight,gamma
+3,0.02814191818288555,230,0.9987576623850559,0.9926577241047396,3,0.7533899015246827

@@ -1,0 +1,12 @@
+feature,mean_abs_shap
+whole_lung_LAA950,1.9229151
+bronchus_LD,1.0947372
+whole_lung_LAA910,0.5346833
+LAA950_right_upper_lobe,0.4137036
+LAA910_right_lower_lobe,0.2504463
+LAA950_right_middle_lobe,0.20893897
+LAA950_left_lower_lobe,0.19991967
+LAA950_right_lower_lobe,0.19972499
+LAA910_left_lower_lobe,0.11467383
+LAA950_left_upper_lobe,0.10748581
+LAA950_lung,0.036228064
