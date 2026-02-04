@@ -1,0 +1,23 @@
+# 核心依赖
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+shap
+
+# 缺失值处理
+fancyimpute
+
+# 超参数优化
+hyperopt
+
+# 统计检验（DeLong检验）
+pydelong
+
+# 可视化
+matplotlib
+seaborn
+
+# 可选（部署）
+flask
